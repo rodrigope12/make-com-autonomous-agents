@@ -26,4 +26,4 @@ git clone https://github.com/rodrigope12/create-a-custom-agent-using-make.git
 ```
 
 ---
-*Developed by Rodrigo Perez Cordero. Part of professional portfolio.*
+*Developed by **[Rodrigope12](https://github.com/rodrigope12)**. Part of professional portfolio.*
